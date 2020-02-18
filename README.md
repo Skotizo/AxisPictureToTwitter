@@ -1,2 +1,2 @@
 # AxisPictureToTwitter
-post a photo to twitter with weather
+post a Axis camera photo to twitter with weather
