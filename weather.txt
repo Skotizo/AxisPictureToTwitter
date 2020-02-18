@@ -1,0 +1,3 @@
+Temperature: 23.0 F
+Relative Humidity: 71%
+Sky conditions: mostly cloudy
